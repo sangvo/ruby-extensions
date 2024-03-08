@@ -8,5 +8,6 @@ gem 'rubocop'
 gem 'rubocop-performance'
 gem 'rubocop-rails', require: false
 gem "rubocop-rspec", "~> 2.12", require: false
+gem "rubocop-rails-omakase"
 gem 'ruby-lsp'
 
